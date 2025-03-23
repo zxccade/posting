@@ -6,11 +6,11 @@ V-STaR 拥有充足且灵活可变的视频长度、包含多种视频领域、�
 
 ![title](./figs/title.png)
 
-**论文标题：**V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning
+**论文标题：** V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning
 
-**论文链接：**https://arxiv.org/abs/2503.11495
+**论文链接：** https://arxiv.org/abs/2503.11495
 
-**项目链接：**https://github.com/V-STaR-Bench/V-STaR
+**项目链接：** https://github.com/V-STaR-Bench/V-STaR
 
 ## 1. 背景介绍
 
